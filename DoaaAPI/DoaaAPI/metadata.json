@@ -1,0 +1,5 @@
+{
+  "name": "Doaa API",
+  "description": "A frontend-only AI-powered API generator. Describe logic in plain English, generating executable functions and testing interfaces instantly.",
+  "requestFramePermissions": []
+}
